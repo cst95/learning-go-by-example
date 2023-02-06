@@ -1,7 +1,7 @@
-Need to pull postgresql image
+# Simple Bank
 
-Need to install migrate in WSL
-```
-curl -L https://github.com/golang-migrate/migrate/releases/download/v4.15.2/migrate.linux-amd64.tar.gz | tar xvz
-mv migrate $GOPATH/bin/migrate
-```
+https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/
+
+### Required installs
+- https://github.com/kyleconroy/sqlc
+- https://github.com/golang-migrate/migrate
